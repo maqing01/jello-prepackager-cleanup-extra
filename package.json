@@ -1,0 +1,23 @@
+{
+  "name": "jello-prepackager-cleanup-extra",
+  "version": "1.0.0",
+  "description": "Clean up expired compiled content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "compile",
+    "md5",
+    "cleanup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:maqing01/jello-prepackager-cleanup-extra.git"
+  },
+  "author": {
+	"name": "maqing01"
+  },
+  "license": "ISC"
+}
