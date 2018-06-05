@@ -1,6 +1,6 @@
 {
   "name": "jello-prepackager-cleanup-extra",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clean up expired compiled content",
   "main": "index.js",
   "scripts": {
